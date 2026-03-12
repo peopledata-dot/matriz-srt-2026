@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/matriz-srt-2026/static/css/main.f6e8dadf.css",
-    "main.js": "/matriz-srt-2026/static/js/main.534a7537.js",
+    "main.css": "/matriz-srt-2026/static/css/main.38708ab8.css",
+    "main.js": "/matriz-srt-2026/static/js/main.cc0e64b1.js",
     "static/js/488.7e11beab.chunk.js": "/matriz-srt-2026/static/js/488.7e11beab.chunk.js",
     "index.html": "/matriz-srt-2026/index.html",
-    "main.f6e8dadf.css.map": "/matriz-srt-2026/static/css/main.f6e8dadf.css.map",
-    "main.534a7537.js.map": "/matriz-srt-2026/static/js/main.534a7537.js.map",
+    "main.38708ab8.css.map": "/matriz-srt-2026/static/css/main.38708ab8.css.map",
+    "main.cc0e64b1.js.map": "/matriz-srt-2026/static/js/main.cc0e64b1.js.map",
     "488.7e11beab.chunk.js.map": "/matriz-srt-2026/static/js/488.7e11beab.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f6e8dadf.css",
-    "static/js/main.534a7537.js"
+    "static/css/main.38708ab8.css",
+    "static/js/main.cc0e64b1.js"
   ]
 }
