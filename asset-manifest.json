@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/matriz-srt-2026/static/css/main.b344d86d.css",
-    "main.js": "/matriz-srt-2026/static/js/main.63ddc6d8.js",
+    "main.js": "/matriz-srt-2026/static/js/main.b3823c72.js",
     "index.html": "/matriz-srt-2026/index.html",
     "main.b344d86d.css.map": "/matriz-srt-2026/static/css/main.b344d86d.css.map",
-    "main.63ddc6d8.js.map": "/matriz-srt-2026/static/js/main.63ddc6d8.js.map"
+    "main.b3823c72.js.map": "/matriz-srt-2026/static/js/main.b3823c72.js.map"
   },
   "entrypoints": [
     "static/css/main.b344d86d.css",
-    "static/js/main.63ddc6d8.js"
+    "static/js/main.b3823c72.js"
   ]
 }
